@@ -33,9 +33,10 @@
 }
 .recent-work .item .image{
     width: 100%;
-    height: auto;
+    height: 100%;
     transition: all ease .5s;
 }
+
 .recent-work .item .overlay{
     display: flex;
     flex-direction: column;
