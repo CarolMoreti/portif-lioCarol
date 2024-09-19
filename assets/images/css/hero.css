@@ -24,6 +24,7 @@
     max-width: min(100%, 80rem);
     height:auto;
     margin:auto;
+    margin-bottom: -11.5rem;
 }
 @media(width >600px){
     .hero h1{

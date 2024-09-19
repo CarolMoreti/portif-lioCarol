@@ -1,6 +1,6 @@
 footer{
-    background-color: var(--foreground);
-    color: var(--primary-light);
+    background-color: white;
+    color: var(--primary);
     padding: 6rem 2rem;
     text-align: center;
 }
@@ -28,7 +28,8 @@ footer .social a{
     width: 5rem;
     height: 5rem;
     border-radius: 50%;
-    border: 0.2rem solid var(--primary-light);
+    border: 0.2rem solid var(--foreground);
+    background-color: var(--foreground);
 }
 footer .social a img{
     width: 2rem;
